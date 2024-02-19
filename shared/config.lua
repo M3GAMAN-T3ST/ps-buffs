@@ -55,6 +55,20 @@ Config.Buffs = {
         progressColor = "#FFD700",
         type = 'buff'
     },
+    ['gym-stamina'] = { -- rz-gym
+        iconColor = "#ffffff",
+        iconName = 'wind',
+        maxTime = 300000,
+        progressColor = "#FFD700",
+        type = 'buff'
+    },
+    ['gym-strength'] = { -- rz-gym
+        iconColor = "#ffffff",
+        iconName = 'dumbbell',
+        maxTime = 300000,
+        progressColor = "#FFD700",
+        type = 'buff'
+    },
 
     -- Enhancement Section -- Do not change type, even if you know what you are doing
     -- Do not change the index names (super names) as they are used in the front end to determine which icon to change color
